@@ -1,0 +1,7 @@
+/log/*
+!/log/.gitkeep
+
+/ssl/*
+!/ssl/.gitkeep
+
+.env
